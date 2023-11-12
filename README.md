@@ -1,4 +1,5 @@
 <h1>Simple Code Generator Project</h1>
+<img src='qr_img.png'>
 
 <p>You will be asked for a url, then it will save an image with your QRCode and a txt file with the data you entered.</p>
 
