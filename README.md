@@ -1,6 +1,6 @@
-This is a simple Code Generator Project
+<h1>Simple Code Generator Project</h1>
 
---> You will be asked for a url, then it will save an image with your QRCode and a txt file with the data you entered.
+<p>You will be asked for a url, then it will save an image with your QRCode and a txt file with the data you entered.</p>
 
 Required libraries:
 <ol>
